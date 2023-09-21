@@ -1,3 +1,25 @@
-body{
-    background-color: bisque;
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
 }
+.main{
+    background-color: steelblue;
+    color: white;
+    width: max-content;
+    margin: 0 auto;
+}
+.title{
+    padding: 80px 0;
+    text-align: center;
+}
+.cta{
+    background-color: orange;
+    padding: 30px;
+    display: inline-block;
+    width: 387px;
+    margin:  0 auto;
+    text-decoration: none;
+    text-align: center;
+}
+
